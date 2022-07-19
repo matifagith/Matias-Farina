@@ -4,13 +4,13 @@ I'm a fullstack developer who is passionate about making functional and good loo
 ![me](https://i.pinimg.com/564x/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.jpg)
 
 ```js
-  const franco = {
+  const matias = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
             js: ["React","Redux"],
-            css: ["Styled-components", "Css"]
+            css: ["Styled-components", "Css", "Less"]
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["PostgreSql"],
