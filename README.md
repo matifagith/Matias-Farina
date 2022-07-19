@@ -19,10 +19,10 @@ I'm a fullstack developer who is passionate about making functional and good loo
 ```
 ### Find me around the web 🌎:
 - [Web]() ⚡
-- [LinkedIn](https://www.linkedin.com/in/franco-gimenez-dev/) ⭐️
+- [LinkedIn](https://www.linkedin.com/in/matias-farina/) ⭐️
 
 ### My Projects
-- [Videogames App]()
+- [Pokemons App]()
 - [Patitas App](https://pf-henry-front-three.vercel.app/)
 <!--
 **FrancoG21/FrancoG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
