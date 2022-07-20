@@ -20,7 +20,6 @@ I'm a fullstack developer who is passionate about making functional and good loo
 ### Find me around the web 🌎:
 - [Web]() ⚡
 - [LinkedIn](https://www.linkedin.com/in/matias-farina/) ⭐️
-- e-mail : matiasfarinasola@gmail.com
 
 ### My Projects
 - [Pokemons App]()
